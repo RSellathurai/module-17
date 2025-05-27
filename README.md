@@ -2,7 +2,7 @@
 
 This analysis uses the [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing) to predict whether a customer will subscribe to a term deposit. The project follows the **CRISP-DM framework** and explores various machine learning approaches for this binary classification task.
 
-See the detail step by step model analysis in prompt_III.ipynb
+See the detailed step-by-step model analysis [check the analysis notebook](prompt_III.ipynb)
 
 ## CRISP-DM Steps
 
